@@ -34,9 +34,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="344.7501688"
-     inkscape:cx="1255.067748"
-     inkscape:zoom="0.340032196"
+     inkscape:cy="426.8476001"
+     inkscape:cx="802.80193"
+     inkscape:zoom="0.4171031457"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -46,7 +46,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-page="true">
     <sodipodi:guide
        id="guide18103"
        orientation="0,1"
@@ -517,7 +518,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -526,6 +527,13 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3505"
+       width="1927.507324"
+       height="1001.02533"
+       x="310.4451294"
+       y="-2202.694336" />
     <g
        transform="translate(0,-126)"
        id="g18625"
@@ -1090,5 +1098,112 @@
          x="-1637.3619"
          y="346.59082"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;fill:#ffffff;">BIRTH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6645088196px;line-height:125%;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="597.95782"
+       y="-1473.634"
+       id="text3511"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3513"
+         x="597.95782"
+         y="-1473.634"
+         style="text-align:center;text-anchor:middle;fill:#ffffff">expected edge:</tspan><tspan
+         sodipodi:role="line"
+         x="597.95782"
+         y="-1452.8033"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan3515">hyaline</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6645088196px;line-height:125%;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="889.91321"
+       y="-1444.8998"
+       id="text3511-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3513-6"
+         x="889.91321"
+         y="-1444.8998"
+         style="text-align:center;text-anchor:middle;fill:#ffffff">expected edge:</tspan><tspan
+         sodipodi:role="line"
+         x="892.22412"
+         y="-1424.0691"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan3515-7">hyaline, but early </tspan><tspan
+         sodipodi:role="line"
+         x="889.91321"
+         y="-1403.2385"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan3582">opaque may occur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6645088196px;line-height:125%;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1182.6495"
+       y="-1431.4194"
+       id="text3511-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3513-3"
+         x="1182.6495"
+         y="-1431.4194"
+         style="text-align:center;text-anchor:middle;fill:#ffffff">expected edge:</tspan><tspan
+         sodipodi:role="line"
+         x="1182.6495"
+         y="-1410.5887"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan3515-5">opaque</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6645088196px;line-height:125%;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1474.9952"
+       y="-1407.2603"
+       id="text3511-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3513-2"
+         x="1474.9952"
+         y="-1407.2603"
+         style="text-align:center;text-anchor:middle;fill:#ffffff">expected edge:</tspan><tspan
+         sodipodi:role="line"
+         x="1474.9952"
+         y="-1386.4296"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan3515-9">opaque</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6645088196px;line-height:125%;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1767.3409"
+       y="-1390.6057"
+       id="text3511-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1767.3409"
+         y="-1390.6057"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan3515-0">expected edge:</tspan><tspan
+         sodipodi:role="line"
+         x="1767.3409"
+         y="-1369.775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan3580">hyaline</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6645088196px;line-height:125%;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2059.6868"
+       y="-1357.6765"
+       id="text3511-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3513-36"
+         x="2059.6868"
+         y="-1357.6765"
+         style="text-align:center;text-anchor:middle;fill:#ffffff">expected edge:</tspan><tspan
+         sodipodi:role="line"
+         x="2059.6868"
+         y="-1336.8458"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan3515-06">wide hyaline</tspan></text>
   </g>
 </svg>
