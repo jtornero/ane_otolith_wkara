@@ -22,8 +22,8 @@
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="-3"
-     inkscape:window-x="1277"
-     inkscape:window-height="1004"
+     inkscape:window-x="-3"
+     inkscape:window-height="977"
      inkscape:window-width="1280"
      inkscape:guide-bbox="true"
      showguides="false"
@@ -38,7 +38,7 @@
      inkscape:current-layer="g8951"
      inkscape:document-units="px"
      inkscape:cy="752.06703"
-     inkscape:cx="1043.9332"
+     inkscape:cx="1351.7717"
      inkscape:zoom="0.42980635"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -1087,27 +1087,20 @@
           <text
              sodipodi:linespacing="125%"
              id="text3511-91"
-             y="-1973.3644"
+             y="-1937.3644"
              x="2499.4448"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.22500038px;line-height:125%;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                id="tspan3515-79"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.22500038px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-               y="-1973.3644"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.22500038px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+               y="-1937.3644"
                x="2499.4448"
-               sodipodi:role="line"><tspan
-                 id="tspan5935"
-                 style="font-weight:normal;font-size:27.22500038px;-inkscape-font-specification:'Gill Sans MT, Normal';text-align:center;text-anchor:middle;fill:#ffffff">expected edge:</tspan></tspan><tspan
+               sodipodi:role="line">expected edge:</tspan><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.22500038px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-               y="-1939.3331"
-               x="2503.2202"
-               sodipodi:role="line"
-               id="tspan5937">from wide hyaline to </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.22500038px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-               y="-1905.3019"
+               y="-1903.3331"
                x="2499.4448"
                sodipodi:role="line"
-               id="tspan4087">opaque (usually narrow)</tspan></text>
+               id="tspan4087">first hyaline; afterwards opaque</tspan></text>
         </g>
         <g
            id="g5819"
@@ -1277,7 +1270,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.22500038px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
              y="-1377.5149"
              x="2499.5603"
-             sodipodi:role="line">growth starts later</tspan><tspan
+             sodipodi:role="line">opaque growth starts later</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.22500038px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';text-align:center;text-anchor:middle;fill:#ffffff"
              y="-1343.4836"
              x="2499.5603"
